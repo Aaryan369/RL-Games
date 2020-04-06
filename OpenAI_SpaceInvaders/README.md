@@ -25,4 +25,8 @@ With all of our components in place, we can then calculate the loss to train our
   <img width="" height="" src="https://media.giphy.com/media/kEj04tJ6wETz6hHDRK/giphy.gif">
 </p>
 
+Website Link :
+https://towardsdatascience.com/optimized-deep-q-learning-for-automated-atari-space-invaders-an-implementation-in-tensorflow-2-0-80352c744fdc
 
+Original :
+https://github.com/EXJUSTICE/GradientCrescent
